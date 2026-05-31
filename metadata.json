@@ -1,0 +1,6 @@
+{
+  "name": "Pedarat Ai",
+  "description": "Pedarat Ai is a smart, high-performance chat client integrated with all free models on llm7.io. Features white, dark, and colorful material themes, instant dynamic translation between Persian and English, and local histories backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
